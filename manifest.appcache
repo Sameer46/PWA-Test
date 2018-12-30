@@ -8,4 +8,4 @@ network.html
 
 # Fallback content
 FALLBACK:
-/ fallback.html
+#static.html
