@@ -5,7 +5,7 @@ style.css
 index.html
 # Use from network if available
 NETWORK:
-index.html
+*
 # Fallback content
 FALLBACK:
 index.html
