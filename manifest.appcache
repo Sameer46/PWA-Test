@@ -4,8 +4,9 @@ CACHE:
 style.css
 # Use from network if available
 NETWORK:
-network.html
+index.html
 
 # Fallback content
 FALLBACK:
-#static.html
+index.html
+style.css
