@@ -2,6 +2,7 @@ CACHE MANIFEST
 #DATE 2018-12-30
 CACHE:
 style.css
+index.html
 # Use from network if available
 NETWORK:
 index.html
